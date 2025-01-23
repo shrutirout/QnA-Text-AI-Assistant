@@ -12,8 +12,7 @@ Drag and drop the box on your screen, select the desired text, and let the AI ha
 ---
 
 💻 **Tech Stack**
-- HTML: For structuring the extension’s interface.  
-- CSS: For styling and responsive design.  
+- HTML: For structuring the extension’s interface.   
 - JavaScript: Core logic for GPT queries and clipboard functionality.  
 - Canvas API: Enables dynamic drag-and-drop box functionality.  
 - Chrome Extension Framework: Powers the extension’s integration with the browser.  
