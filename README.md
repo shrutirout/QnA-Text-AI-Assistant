@@ -22,7 +22,7 @@ Drag and drop the box on your screen, select the desired text, and let the AI ha
 
 Video Demo:
 
-https://github.com/user-attachments/assets/3e89d922-6f1d-4b8d-921f-bc184ca206b4
+https://github.com/user-attachments/assets/5c1e9bdc-ef4c-442e-8264-aff6e4a46a23
 
 ---
 
