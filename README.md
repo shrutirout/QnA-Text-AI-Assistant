@@ -19,3 +19,10 @@ Drag and drop the box on your screen, select the desired text, and let the AI ha
 - Chrome Extension Framework: Powers the extension’s integration with the browser.  
 - OpenAI API: Provides GPT-based natural language processing.
 ---
+
+Video Demo:
+
+https://github.com/user-attachments/assets/3e89d922-6f1d-4b8d-921f-bc184ca206b4
+
+---
+
